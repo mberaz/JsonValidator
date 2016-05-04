@@ -1,0 +1,10 @@
+{
+    "name": "michael berezin",
+    "id": 1,
+    "homeAddress": {
+        "city": "tel aviv",
+        "street": "bosem",
+        "houseNumber": 21
+    }
+    
+}

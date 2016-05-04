@@ -1,0 +1,14 @@
+{
+    "name": "michael berezin",
+    "id": 1,
+    "homeAddress": {
+        "city": "tel aviv",
+        "street": "bosem",
+        "houseNumber": 21
+    },
+    "nicknames": [
+        "programer bear",
+        "API baron",
+        "the god dammed devil"
+    ]
+}
